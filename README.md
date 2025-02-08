@@ -54,7 +54,7 @@ The purpose of this project is to demonstrate how to integrate machine learning 
   This project utilizes [face-api.js](https://github.com/justadudewhohacks/face-api.js), an open-source library for face detection and recognition, licensed under the MIT License.  
 - **Tutorials and Online Resources**:  
   Inspiration and code snippets were adapted from various tutorials and online resources focused on drag-and-drop interfaces and AI-powered facial recognition.
--**Ai for writing the readme and making the code look organized**
+-**Ai for writing the readme and making the code look organized**:
   I would like to acknowledge the assistance of AI tools in helping to organize the source code and generate portions of this README. While the core functionality and design decisions were made by me, the AI assisted in refining the code structure and documentation for clarity and consistency.
 
 ## License
