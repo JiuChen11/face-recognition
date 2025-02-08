@@ -51,6 +51,12 @@ function setupDragAndDrop() {
 
 // Display dropped image
 async function displayImage(dropZone, file) {
+    // Check if the file is an image (accepts all image types)
+    if (!file.type.startsWith("image/")) {
+        alert("Please drop an image file.");
+        return;
+    }
+
     const img = new Image();
     img.src = URL.createObjectURL(file);
     img.onload = () => URL.revokeObjectURL(img.src);
