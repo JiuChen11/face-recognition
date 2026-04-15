@@ -2,8 +2,6 @@
 
 ## Team Members
 - Jiu Chen  
-- Casey Lee
-- Sri Sai lakshman Kunderu
 
 ## Project Overview
 This project is a web-based application that allows users to compare two face images using AI-powered facial recognition. The application features a simple drag-and-drop interface where users can drop images into designated zones. Once both images are uploaded, the system processes them using the **face-api.js** library to detect faces, extract facial descriptors, and determine if the faces match.
